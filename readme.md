@@ -2,11 +2,11 @@
 
 Simple chat project using websocket.
 
-![alt text](https://github.com/danielborbavareladossantos/flipball/blob/master/docs/image-1.png?raw=true)
+![alt text](https://github.com/danielborbavareladossantos/chat/blob/master/docs/image-1.png?raw=true)
 
-![alt text](https://github.com/danielborbavareladossantos/flipball/blob/master/docs/image-2.png?raw=true)
+![alt text](https://github.com/danielborbavareladossantos/chat/blob/master/docs/image-2.png?raw=true)
 
-![alt text](https://github.com/danielborbavareladossantos/flipball/blob/master/docs/image-3.png?raw=true)
+![alt text](https://github.com/danielborbavareladossantos/chat/blob/master/docs/image-3.png?raw=true)
 
 ## Credits
 
